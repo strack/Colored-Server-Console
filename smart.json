@@ -2,5 +2,5 @@
 "description": "A quick program to send rainbow messages to the server console",   
 "homepage": " https://github.com/strack/Colored-Server-Console ",   
 "author": "Isaac Strack <strackbucket@gmail.com>",   
-"version": "0.1.0",   
+"version": "0.1.1",   
 "git": " https://github.com/strack/Colored-Server-Console.git ",   "packages": {   } }

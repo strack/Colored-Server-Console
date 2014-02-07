@@ -1,0 +1,15 @@
+{
+  "meteor": {},
+  "dependencies": {
+    "basePackages": {
+      "color-server-console": {
+        "path": "."
+      }
+    },
+    "packages": {
+      "color-server-console": {
+        "path": "."
+      }
+    }
+  }
+}
