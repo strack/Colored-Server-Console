@@ -1,6 +1,6 @@
 Package.describe({
     summary: "A Test package",
-    version: "1.0.0",
+    version: "1.0.1",
     githubUrl: "https://github.com/strack/Colored-Server-Console.git"
 });
 

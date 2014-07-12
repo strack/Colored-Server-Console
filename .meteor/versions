@@ -34,7 +34,7 @@ spacebars-common@1.0.0
 spacebars-compiler@1.0.0
 spacebars@1.0.0
 standard-app-packages@1.0.0
-strack:test-packages@1.0.0
+strack:test-packages@1.0.1
 templating@1.0.0
 ui@1.0.0
 underscore@1.0.0
