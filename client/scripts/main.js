@@ -1,4 +1,3 @@
-if (Meteor.isClient) {
   Template.hello.greeting = function () {
     return "Welcome to FileTemplate.";
   };
@@ -11,5 +10,6 @@ if (Meteor.isClient) {
         TestPack.log('button pressed');
     }
   });
-}
+
+
 
