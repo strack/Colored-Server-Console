@@ -1,7 +1,7 @@
 Package.describe({
     summary: "A Test package",
     version: "1.0.0",
-    githubUrl: ""
+    githubUrl: "https://github.com/strack/Colored-Server-Console.git"
 });
 
 Package.on_use(function (api) {
